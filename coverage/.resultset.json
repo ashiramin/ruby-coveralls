@@ -1,0 +1,93 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/ashir/projects/hello-world-main/app/helpers/application_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/ashir/projects/hello-world-main/app/helpers/articles_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/ashir/projects/hello-world-main/app/controllers/articles_controller.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/ashir/projects/hello-world-main/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/ashir/projects/hello-world-main/app/controllers/test_controller.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/ashir/projects/hello-world-main/app/channels/application_cable/channel.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/ashir/projects/hello-world-main/app/channels/application_cable/connection.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/ashir/projects/hello-world-main/app/jobs/application_job.rb": {
+        "lines": [
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/ashir/projects/hello-world-main/app/mailers/application_mailer.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/ashir/projects/hello-world-main/app/models/application_record.rb": {
+        "lines": [
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      }
+    },
+    "timestamp": 1679583030
+  }
+}
